@@ -1,6 +1,6 @@
 Impact: high
 
-Written with "scocoyash" Watson. 
+Written with "scocoyash" Watson and "Jihae Ahn". 
 Final reports can differ slightly.
 
 ## Summary
